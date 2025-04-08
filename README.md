@@ -1,8 +1,8 @@
-# Integrated Hospital Equipment Care System
+# Integrated Hospital Equipments Management Module
 
 ## Project Overview
 
-The Integrated Hospital Equipment Care System is designed to manage the preventive maintenance of hospital machines and equipment, ensuring their optimal functioning to enhance patient care and hospital operations. This system is a part of a larger hospital management framework.
+The Integrated Hospital Equipment Management Module is designed to manage the preventive maintenance of hospital machines and equipment. This system is a part of a larger hospital management System.
 
 ## Features 
 
@@ -68,7 +68,6 @@ The Integrated Hospital Equipment Care System is designed to manage the preventi
 3. **Navigate through the dashboard**
     - View upcoming maintenance tasks
     - Monitor equipment status
-    - Generate and view reports
 
 ## **Screenshots**
 
