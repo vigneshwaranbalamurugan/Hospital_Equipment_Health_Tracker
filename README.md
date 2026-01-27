@@ -110,7 +110,7 @@ The Integrated Hospital Equipment Management Module is designed to manage the pr
 - [**ShriraamMKS**](https://github.com/Shriraam-6219)
 - [**VigneshwaranB**](https://github.com/VigneshwaranB)
 - [**VijayBharathV**](https://github.com/vigneshwaranbalamurugan)
-
+- [**Mahaselvan**](https://github.com/Mahaselvan)
 ## Acknowledgements
 
 This project was developed as part of the Web Technology Laboratory course at Kongu Engineering College.
